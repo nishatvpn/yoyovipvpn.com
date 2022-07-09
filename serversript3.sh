@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 HOST='174.138.187.20';
-USER='yoyovipv_ardev';
-PASS='yoyovipv_ardev';
-DBNAME='yoyovipv_ardev';
+USER='yoyovipv_eftunne';
+PASS='yoyovipv_eftunne';
+DBNAME='yoyovipv_eftunne';
 
 install_require()
 {
