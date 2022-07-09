@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-HOST='50.116.18.242';
-USER='loinvpnc_vipplus';
-PASS='@@@For1en3At1';
-DBNAME='loinvpnc_vipplus';
+HOST='174.138.187.20';
+USER='yoyovipv_ardev';
+PASS='yoyovipv_ardev';
+DBNAME='yoyovipv_ardev';
 
 install_require()
 {
